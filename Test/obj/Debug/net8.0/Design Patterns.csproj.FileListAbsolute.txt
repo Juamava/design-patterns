@@ -1,0 +1,31 @@
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Design Patterns.exe
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Design Patterns.deps.json
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Design Patterns.runtimeconfig.json
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Design Patterns.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Design Patterns.pdb
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Azure.Messaging.ServiceBus.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\RBush.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\jamav\source\repos\Test\Test\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.csproj.AssemblyReference.cache
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.AssemblyInfo.cs
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design P.913F8501.Up2Date
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.dll
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\refint\Design Patterns.dll
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.pdb
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\Design Patterns.genruntimeconfig.cache
+C:\Users\jamav\source\repos\Test\Test\obj\Debug\net8.0\ref\Design Patterns.dll
