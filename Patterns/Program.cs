@@ -1,7 +1,5 @@
-﻿using Azure.Messaging.ServiceBus;
-using ClosedXML.Excel;
-using Design_Patterns.Structural.Adapter;
-using System.Text;
+﻿using Design_Patterns.Structural.Adapter;
+using Patterns.Behaviour.ChainOfResponsability;
 
 namespace Test
 {
@@ -15,8 +13,13 @@ namespace Test
     {
         static async Task Main(string[] args)
         {
-            AdapterUsage adapterUsage = new AdapterUsage();
-            adapterUsage.Use();
+            // Chain of responsability
+            ChainOfResponsabilityUsage chainOfResponsabilityUsage = new ChainOfResponsabilityUsage();
+            chainOfResponsabilityUsage.Use();
+
+            // Adapter
+            //AdapterUsage adapterUsage = new AdapterUsage();
+            //adapterUsage.Use();
         }
     }
 }
