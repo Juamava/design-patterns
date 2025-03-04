@@ -1,5 +1,6 @@
 ﻿using Design_Patterns.Structural.Adapter;
 using Patterns.Behaviour.ChainOfResponsability;
+using Patterns.Structural.Facade;
 
 namespace Test
 {
@@ -14,12 +15,16 @@ namespace Test
         static async Task Main(string[] args)
         {
             // Chain of responsability
-            ChainOfResponsabilityUsage chainOfResponsabilityUsage = new ChainOfResponsabilityUsage();
-            chainOfResponsabilityUsage.Use();
+            //ChainOfResponsabilityUsage chainOfResponsabilityUsage = new ChainOfResponsabilityUsage();
+            //chainOfResponsabilityUsage.Use();
 
             // Adapter
             //AdapterUsage adapterUsage = new AdapterUsage();
             //adapterUsage.Use();
+
+            // Facade
+            FacadeUsage facade = new FacadeUsage();
+            facade.Use();
         }
     }
 }
